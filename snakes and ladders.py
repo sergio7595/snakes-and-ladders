@@ -13,7 +13,6 @@ import random,sys
 #this is the whole game line of code
 player = 0
 computer = 0
-global player,computer
 
 def game():
 
